@@ -1,5 +1,5 @@
 ## Datasets
-You will use two datasets from the Department of Housing Preservation and Development of New York City to address their problems.
+Two datasets are used from the Department of Housing Preservation and Development of New York City to address their problems.
 
 ### 311 complaint dataset
 
